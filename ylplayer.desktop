@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=ylplayer
+Exec=/usr/bin/ylplayer
+Icon=/usr/share/icon/icon_ylplayer.png
+Type=Application
